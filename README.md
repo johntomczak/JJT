@@ -1,18 +1,18 @@
 # Welcome to The World of JJT
 
-### Narrative Bio, text
+Narrative Bio, text
 
-### Resume, text
+Resume, text
 
-### GitHub, link
+GitHub, link
 
-### Podcast, link
+Podcast, link
 
-### Google Colab Notebooks, link
+Google Colab Notebooks, link
 
-### Contact Me
+Contact Me
 
-### Wildcard
+Wildcard
 
 [Posts, on Substack](https://jjtposts.substack.com/people/1046252-john)
 
