@@ -4,7 +4,7 @@ Narrative Bio, text
 
 Resume, text
 
-GitHub, link
+[Code, on GitHub](https://github.com/johntomczak)
 
 Podcast, link
 
