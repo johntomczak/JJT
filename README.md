@@ -1,3 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The World of JJT
 
-[Substack](https://jjtposts.substack.com/people/1046252-john)
+[Posts, on Substack](https://jjtposts.substack.com/people/1046252-john)
+[Comments, on Twitter](https://twitter.com/JJT1996)
