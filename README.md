@@ -10,12 +10,6 @@ Narrative Bio, text
 
 [Comments, on Twitter](https://twitter.com/JJT1996)
 
-Highlights:
-
-* A
-* B
-* C
-
 Podcast, link
 
 Google Colab Notebooks, link
