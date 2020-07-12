@@ -6,6 +6,10 @@ Narrative Bio, text
 
 [Code, on GitHub](https://github.com/johntomczak)
 
+* A
+* B
+* C
+
 [Posts, on Substack](https://jjtposts.substack.com/people/1046252-john)
 
 [Comments, on Twitter](https://twitter.com/JJT1996)
