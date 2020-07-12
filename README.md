@@ -2,7 +2,7 @@
 
 Narrative Bio, text
 
-[Resume](resume.md)
+[Resume.pdf](resume.md)
 
 [Code, on GitHub](https://github.com/johntomczak)
 
