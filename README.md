@@ -1,4 +1,4 @@
-# Welcome to The World of JJT
+# Things and Stuff
 
 Narrative Bio, text
 
